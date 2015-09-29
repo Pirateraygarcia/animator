@@ -1,0 +1,44 @@
+
+  
+ 
+ 
+.jumbotron { 
+background-image:url("http://studioghiblimovies.com/wp-content/uploads/2014/12/02-Porco-Rosso.jpg");
+height: 400px;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+  .container .jumbotron h1{
+padding:250px 3px;
+ color: #fff;
+  font-size: 48px;  
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.container .jumbotron p{
+padding:250px 3px;
+ color: #fff;
+  font-size: 48px;  
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+body {
+	
+	background-image:url("http://www.imgbase.info/images/safe-wallpapers/anime/anime_scenery/46553_anime_scenery_studio_ghibli_anime_landscapes.jpg");
+	background-repeat: no-repeat;
+background-size: cover;
+}
+
+.navbar-bottom {
+Background-color: black;
+}
+
+#footer {
+  height: 60px; 
+  background-color: black;
+  
+}
